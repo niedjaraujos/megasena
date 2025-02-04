@@ -66,6 +66,8 @@ ul li {
     height: 80px;
     border-radius: 50%;
     list-style: none;
+       display: flex;
+    justify-content: center;
 }
 
 button {
